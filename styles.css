@@ -1,0 +1,46 @@
+.header {
+    background-color: aqua ;
+    padding: 50px 10%;
+    margin: 0;
+}
+
+.main {
+background-color: rgb(200, 255, 255);
+}
+
+.footer {
+    background-color: rgb(165, 255, 255);
+    justify-content: center;
+    display: flex;
+}
+
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.head {
+    text-align: center;
+}
+
+.img-main {
+    background-size: cover;
+    background-image: url(https://www.web-development-institute.com/wp-content/uploads/2020/04/html-course-banner.jpg);
+    width: 100%;
+    height: 100%;
+}
+
+.feature {
+    display: flex;
+}
+
+.left {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right {
+    width: 50%;
+}
